@@ -3,44 +3,21 @@
     GLOBALS 
 -------------------------*/
 var sections = [
-		{	sentence: " an enthusiastic developer based in India",
+		{	sentence: " a software developer based in India",
 		},
 		{	sentence: " a lover of learning new things",
 		},
 		{	sentence: " making applications on android",
 		},
-		{	sentence: " complaining about stuff",
-		},
 		{	sentence: " interested in Algorithms",
-		},
-		{	sentence: " interested to be a game developer someday",
 		},
 		{	sentence: " in love with making web applications",
 		},
-		{	sentence: " not so secretly in love with Amanda Cerny",
-		},
 		{	sentence: " thinking what to write next",
-		},
-		{	sentence: " thinking of ways to be famous",
-		},
-		{	sentence: " in a hurry to graduate",
-		},
-		{	sentence: " a CETian",
-		},
-		{	sentence: " a python programmer",
-		},
-		{	sentence: " thinking of beaches and blue water",
-		},
-		{	sentence: " stuffing himself with chips",
-		},
-		{	sentence: " kicking some developers' asses",
 		},
 		{	sentence: " curious to know you",
 		},
-		{	sentence: " trying to build up his portfolio",
-		},
-		{	sentence: " an learner",
-		}
+		
 	];
 var i = 0;
 var j = 0;
